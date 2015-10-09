@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: 本博客是如何搭建的
-category: 博客搭建
+category: blog
 comments: true
 ---
 

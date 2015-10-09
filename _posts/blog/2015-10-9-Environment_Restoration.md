@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: 恢复博客的写作环境
-category: 博客搭建
+category: blog
 comments: true
 ---
 

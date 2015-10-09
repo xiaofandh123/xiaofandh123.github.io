@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: 南极洲
-category: Research
+category: blog
 comments: true
 ---
 
